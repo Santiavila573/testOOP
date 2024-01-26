@@ -1,7 +1,9 @@
 Hola bienvenidos, esta es mi historia en base a la OOP
 
-Semana 4
-Repositorios Git y GitHub
+Semana cuatro
+
+Repositorios Git y GitHub:
+
 - Básico
 - Remoto
 - Branch
