@@ -1,2 +1,2 @@
 ### Proyecto de Prueba de git
-*Todo ok para el examen y repositorios listos*
+*Todo ok para el examen y repositorio listo
