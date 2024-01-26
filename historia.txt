@@ -1,4 +1,4 @@
-Esta es mi historia en base a la OOP
+Hola bienvenidos, esta es mi historia en base a la OOP
 
 Semana 4
 Repositorios Git y GitHub
